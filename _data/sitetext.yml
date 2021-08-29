@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: The Public Digital Humanities Institute
     text: Fostering Academic & Community Collaborations
     button: Learn More
-    buttonlink: "#services"
+    buttonlink: "/about"
 
   services:
     title: "Services"

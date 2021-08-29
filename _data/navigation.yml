@@ -13,12 +13,19 @@ en: &DEFAULT_EN
   nav:
     - title: "About"
       url: /about
-    - title: "People"
-      url: /people
+    - title: "Program"
+      url: /program  
     - title: "Apply"
       url: /apply
+    - title: "Attend"
+      url: /attend
+    - title: "People"
+      url: /people
     - title: "Contact"
       url: /contact
+    - title: "News"
+      url: /news
+
  
 
 en-US:
