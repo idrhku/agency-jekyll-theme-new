@@ -3,6 +3,7 @@ title: Brian Rosenblum
 subtitle: Institute Director, Co-Director of the Institute for Digital Research in the Humanities
 image: assets/img/portfolio/rosenblum-brian.png
 alt: Brian Rosenblum
+role: staff
 
 caption:
   title: Brian Rosenblum

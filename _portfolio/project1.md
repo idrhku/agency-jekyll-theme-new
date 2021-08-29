@@ -3,6 +3,7 @@ title: Project Threads
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/06-thumbnail.jpg
 alt: Shirts on a hanger
+role: staff
 
 caption:
   title: Threads

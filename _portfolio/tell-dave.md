@@ -3,6 +3,7 @@ title: Dave Tell
 subtitle: Co-Director of the Institute for Digital Research in the Humanities
 image: assets/img/portfolio/tell-dave.png
 alt: Dave Tell
+role: staff
 
 caption:
   title: Dave Tell

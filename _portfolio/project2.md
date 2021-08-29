@@ -3,6 +3,7 @@ title: Project Name
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/05-thumbnail.jpg
 alt: Keep Exploring
+role: faculty
 
 caption:
   title: Explore

@@ -12,13 +12,15 @@
 en: &DEFAULT_EN
   nav:
     - title: "About"
-      section: /about
-    - title: "Faculty"
-      section: /faculty
-    - title: "Attend"
-      section: attend
+      url: /about
+    - title: "People"
+      url: /people
+    - title: "Apply"
+      url: /apply
     - title: "Contact"
-      section: /contact
+      url: /contact
+ 
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:

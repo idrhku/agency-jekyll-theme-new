@@ -3,6 +3,7 @@ title: Sylvia Fernandez
 subtitle: Public and Digital Humanities Postdoctoral Fellow, Hall Center for the Humanities
 image: assets/img/portfolio/fernandez-sylvia.png
 alt: Sylvia Fernandez
+role: faculty
 
 caption:
   title: Sylvia Fernandez

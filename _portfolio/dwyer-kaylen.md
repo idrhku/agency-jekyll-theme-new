@@ -3,6 +3,7 @@ title: Kaylen Dwyer
 subtitle: Digital Media Specialist, The Institute for Digital Research in the Humanities, University of Kansas
 image: assets/img/portfolio/dwyer-kaylen.png
 alt: Kaylen Dwyer
+role: staff
 
 caption:
   title: Kaylen Dwyer
